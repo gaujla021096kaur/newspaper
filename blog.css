@@ -1,0 +1,40 @@
+body {
+    background-color: gray;
+    margin:0px;
+   }
+   #masthead {
+    background-color: silver;
+    text-align: center;
+    font-size: 20px;
+    height:150px;
+   }
+   body {
+       
+    max-width: 600px;
+    background-color: white; 
+    margin: 0 auto;
+    border: 1;
+    border-style: solid;
+}
+
+   #content {
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+    font-weight:bold;
+   }
+   h3 {
+    font-style: normal;
+    font-weight: normal;
+    border-bottom-style: solid;
+    padding-top: 40px;
+    font-weight:bold;
+    font-size:20px;
+   }
+    h1{
+    margin: 0;
+   }   
+   li {
+    margin-left: 3px;
+    }
